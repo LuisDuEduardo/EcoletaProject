@@ -4,4 +4,4 @@
 
 Dia 1 | 01/06 | - Criação do primeiro layout: index.html + styles + assets
 
-<img src="../imgs/firstdaynlw.png">
+<img src="assets/firstdaynlw.png">
