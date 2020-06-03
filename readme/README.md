@@ -1,4 +1,4 @@
----------- Projeto Ecoleta -> Rocketseat ------------
+---------- *Projeto Ecoleta* -> Rocketseat ------------
 
 <img src="../assets/logo.svg">
 
