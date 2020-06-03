@@ -14,7 +14,8 @@ html {
 }
 
 body {
-  background: #f0f0f5;
+  background: rgb(0,221,187);
+  background: linear-gradient(90deg, rgba(0,221,187,1) 0%, rgba(27,111,199,1) 100%);
   -webkit-font-smoothing: antialiased;
 }
 
