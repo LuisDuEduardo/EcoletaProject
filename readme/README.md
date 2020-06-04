@@ -46,3 +46,11 @@
 <img src="imgs/thirstdaynlw.png"> <br>
 <img src="imgs/thirstdaynlw1.png"> <br>
 <img src="imgs/thirstdaynlw2.png">
+
+## Dia 4
+
+- Adicionando **Node.js** ao projeto 
+- Adicionando **.json**
+- Atualização na organização de pastas (Sem a quebra de conteúdos)
+- Adicionando **server.js** e localhost
+- Mudançsa no Design do layout 
