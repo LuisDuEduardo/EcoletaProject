@@ -6,11 +6,6 @@
 
  Um projeto produzido na **Next Level Week** da Rocketseat (version: starter) com algumas atualizações e mudanças pessoais para aprimorar o projeto.
 
- ## Tópicos:
- - Tecnologias usadas 
- - Desenvolvimento do Projeto (Em desenvolvimento)
- - Implementação de novos recursos (Em andamento)
-
  # Tecnologias usadas:
  - HTML
  - CSS
@@ -53,4 +48,15 @@
 - Adicionando **.json**
 - Atualização na organização de pastas (Sem a quebra de conteúdos)
 - Adicionando **server.js** e localhost
-- Mudançsa no Design do layout 
+- Mudanças no Design do layout 
+
+## Dia 5 
+
+- Desenvolvendo o servidor back-end
+- SQL e DataBase 
+- Atualização de conteúdos
+- Adicionado Sistema de implementação de "Points"  
+
+# Final do Projeto Principal
+
+O projeto principal chegou ao seu fim, mas outra implementações pessoais feitas por mim vão ser feitas, aguardem...
