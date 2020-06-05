@@ -1,5 +1,5 @@
 <h1>
-<img src="../assets/logo.svg"> 
+<img src="imgs/logo.svg"> 
 </h1>
 
 # 📄 Sobre
